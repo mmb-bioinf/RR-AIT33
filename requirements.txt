@@ -1,0 +1,6 @@
+abc_atlas_access @ git+https://github.com/alleninstitute/abc_atlas_access.git
+anndata>=0.10
+scanpy>=1.9
+pandas>=2.0
+numpy>=1.24
+scipy>=1.10

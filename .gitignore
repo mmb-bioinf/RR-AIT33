@@ -1,0 +1,9 @@
+.venv/
+__pycache__/
+*.pyc
+abc_atlas_cache/
+output/
+*.h5ad
+.DS_Store
+.ipynb_checkpoints/
+*.ipynb
